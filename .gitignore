@@ -1,0 +1,19 @@
+# Only the files the live website needs are tracked.
+# Original/raw media (big source files) stay on your computer only.
+/*
+!/.gitignore
+!/index.html
+!/vercel.json
+!/robots.txt
+!/README.md
+!/css/
+!/js/
+!/assets/
+!/videos/
+!/gallery/
+/gallery/*
+!/gallery/thumbs/
+!/gallery/large/
+*.ini
+Thumbs.db
+.DS_Store
